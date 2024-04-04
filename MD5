@@ -1,4 +1,4 @@
-366b56ebc840e0b8f5e7162fe79361df *DESCRIPTION
+ecac23fea111a8cf62850843b3aa3313 *DESCRIPTION
 3340b4ce3dd84c37ab9bcafd4a4c8207 *NAMESPACE
 031b8cada91f645b5f19b8f3a044be56 *R/rgl.ball.R
 dbfe9a49395329b2dc940b8901b0ed8d *R/rgl.camera.R
@@ -8,8 +8,8 @@ f21dffa4a28664df1afa7224c9cfc22d *R/rgl.draw.R
 3c21a6bba2b86ac26262316d899784de *R/rgl.makemovie.R
 bce622bb60c398e2f3d23bf107b00f26 *R/rgl.new.R
 ac2af5bfd50295534baa80403ed3fd26 *R/rgl.orthoview.R
-e67ec096abee5dfd80f7ccda8fa1aaa5 *R/rgl.test.scene.R
-92254e311f4dff91283d0fca02248432 *R/rglplus-package.R
+9e13a8a608bdb9b97eb640f7035c791a *R/rgl.test.scene.R
+ff034c74fbee40eaf67078da05de54bd *R/rglplus-package.R
 81a3b65ec02e82d0f109e26f16747ed2 *inst/earth.png
 475f75661b37cd3c8543f8c21efcbec3 *man/rgl.ball.Rd
 2e5bf9e29afecd8d3339c5d7ca59097e *man/rgl.camera.Rd
@@ -20,4 +20,4 @@ f89f836b81fae5a2d0cd531794bb979f *man/rgl.hold.Rd
 e6ffbf112536011c28fb2c4123567f52 *man/rgl.new.Rd
 735cc57022dd9f987d723465f4119ae1 *man/rgl.orthoview.Rd
 6fbd50ba36f4254a071c3883f6c9bbe1 *man/rgl.test.scene.Rd
-6020776c3dd6a40f95f2c055ebcd1abe *man/rglplus.Rd
+f7070f04d25fd0900fb43ddd2df7413e *man/rglplus-package.Rd
